@@ -1,14 +1,14 @@
 name: Spyrofanworks
 author: Rettroix
 baseurl: http://spyrofanworks.com
-description: theme for jekyll
+description: The Ultimate Website for Spyro Fangames and Hacks.
 github: http://www.github.com/rettroix
 twitter: http://www.twitter.com/
 facebook: http://www.facebook.com
 linkedin: http://www.linkedin.com
 email: rettroix@gmail.com
 location: 
-disqus: diqus-username
+disqus: rettroix
 
 ##Make sure to edit the above fields, especially for disqus.
 
