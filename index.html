@@ -24,13 +24,18 @@ title: Spyro Fanworks
             {{ fresh_tag }}
             <time class="pull-right">
               {{ post.date | date_to_string | date: "%b %-d, %Y"  }}
-              <p>
-              {{ post.excerpt }}
             </time>
           </h4>
         </span>
       </li>
     </ul>
+    
+    <div class="blog-index">  
+  {% assign post = site.posts.first %}
+  {% assign content = post.content %}
+  {% include post_detail.html %}
+    </div>
+
     {% assign add_class = '' %}
     {% assign fresh_tag = '' %}
   {% endfor %}
