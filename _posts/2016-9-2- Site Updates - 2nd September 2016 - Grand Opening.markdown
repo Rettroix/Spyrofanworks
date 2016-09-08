@@ -1,11 +1,12 @@
 ---
 title: Site Updates - 2nd September 2016 - Grand Opening
 ---
-**Heloooo, everyone!
+![Image](http://spyrofanworks.com/images/fangameimages/updates.png)
+Heloooo, everyone!
 
 Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which brings all the fan created content for the original Spyro series together. Including fangames, hacks, tools, texture hacks and more to come in the future. Throughout the day I've been updating the site with as much content as I can and there's still more to be added. This is a complete list of what I have added so far...
 
-![Image](http://spyrofanworks.com/images/fangameimages/updates.png)
+
 
 ### Fangames Added To the Database
 
