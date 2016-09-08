@@ -11,7 +11,7 @@ title: Spyro Fanworks
     {% if forloop.first %}
       {% assign add_class = 'most-recent' %}
       {% capture fresh_tag %}
-        &nbsp;<span class="badge"><smaller>FRESH</smaller></span>
+        &nbsp;<span class="badge"><smaller>NEWEST</smaller></span>
       {% endcapture %}
     {% endif %}
     <ul class="homepage-posts {{ add_class }}">
@@ -37,3 +37,4 @@ title: Spyro Fanworks
   </ul>
 </div>
 {% endif %}
+{% include post_list.html %}
