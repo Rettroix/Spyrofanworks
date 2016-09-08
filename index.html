@@ -7,7 +7,6 @@ title: Spyro Fanworks
 {% if site.posts != empty %}
 <div class="recent-posts">
   <h1>Recent Posts</h1>
-  {% include post_list.html %}
   {% for post in site.posts limit: 3 %}
     {% if forloop.first %}
       {% assign add_class = 'most-recent' %}
@@ -25,6 +24,8 @@ title: Spyro Fanworks
             {{ fresh_tag }}
             <time class="pull-right">
               {{ post.date | date_to_string | date: "%b %-d, %Y"  }}
+              <p>
+              {{ post.excerpt }}
             </time>
           </h4>
         </span>
