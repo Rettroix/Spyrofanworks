@@ -52,7 +52,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
     <div class="project-box">
       <div class="row">
         <div class="col-md-3 project-image">
-          <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/goldtime.png">
+          <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/goldtime.jpg">
         </div>
         <div class="col-md-9 project-post">
           <h1>Spyro The Dragon: Gold Time</h1><h4>Spyro fangame Created by Ivan_Proskater</h4>
@@ -133,7 +133,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/goldtime.png">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/waffled.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Waffled's 2D Spyro Project</h1><h4>Spyro fangame Created by Waffled</h4>
