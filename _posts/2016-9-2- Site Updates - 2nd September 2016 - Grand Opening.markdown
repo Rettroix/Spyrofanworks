@@ -1,7 +1,7 @@
 ---
 title: Site Updates - 2nd September 2016 - Grand Opening
 ---
-![Image](http://spyrofanworks.com/images/fangameimages/updates.png)
+![Image]({{ site.baseurl }}/images/fangameimages/updates.png)
 
 Heloooo, everyone!
 
@@ -19,7 +19,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
     <div class="project-box">
       <div class="row">
         <div class="col-md-3 project-image">
-          <img src="http://spyrofanworks.com/images/fangameimages/thumbnails/pinballdude.png">
+          <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/pinballdude.png">
         </div>
         <div class="col-md-9 project-post">
           <h1> Pinballdude97's Spyro Project </h1>
@@ -35,7 +35,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
     <div class="project-box">
       <div class="row">
         <div class="col-md-3 project-image">
-          <img src="http://spyrofanworks.com/images/fangameimages/thumbnails/riptosreturn.png">
+          <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/riptosreturn.png">
         </div>
         <div class="col-md-9 project-post">
           <h1>Spyro: Ripto's Return </h1>
