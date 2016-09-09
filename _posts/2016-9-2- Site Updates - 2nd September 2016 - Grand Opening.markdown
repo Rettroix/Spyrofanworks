@@ -52,7 +52,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
     <div class="project-box">
       <div class="row">
         <div class="col-md-3 project-image">
-          <img src="http://lorempixel.com/g/400/400/">
+          <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/goldtime.png">
         </div>
         <div class="col-md-9 project-post">
           <h1>Spyro The Dragon: Gold Time</h1><h4>Spyro fangame Created by Ivan_Proskater</h4>
@@ -69,7 +69,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/eclipse.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Spyro: The Dragon Eclipse</h1><h4>Spyro fangame Created by Rettroix</h4>
@@ -85,7 +85,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/ratchet5game.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Ratchet5's Spyro Project</h1><h4>Spyro fangame Created by Ratchet5</h4>
@@ -101,7 +101,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/rubberrabbit.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Two Early Spyro 2D Test Games</h1><h4>Spyro fangame Created by RubbberRabbit2</h4>
@@ -117,7 +117,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/fireworks.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Spyro Fireworks Factory Flight</h1><h4>Spyro fangame Created by RubbberRabbit2</h4>
@@ -133,7 +133,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/goldtime.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Waffled's 2D Spyro Project</h1><h4>Spyro fangame Created by Waffled</h4>
@@ -149,7 +149,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/spyroworldofsecrets.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> Spyro - The World of Secrets</h1><h4>Spyro fangame Created by Sky Fentras</h4>
@@ -165,7 +165,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/reborn.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>Spyro Reborn</h1><h4> Spyro fangame Created by Rettroix</h4>
@@ -181,7 +181,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/monacledpotato.png">
       </div>
       <div class="col-md-9 project-post">
         <h1> MonacledPotato's Spyro Project</h1><h4>Spyro fangame Created by MonacledPotato</h4>
@@ -200,7 +200,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/skateboard.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>Spyro 3: Castle Skatepark Mod </h1><h4>Spyro 3 Mod by Kly_Men_COmpany</h4>
@@ -216,7 +216,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/beta.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>Spyro The Dragon: Beta Playthrough </h1><h4>A complete Spyro Beta Playthrough by LXShadow</h4>
@@ -229,13 +229,13 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   </div>
 </div>
 
-### Tools and Utilities
+### Tools and Utilities Added To the Database
 
   <div class="container">
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/skyboxeditor.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>Vertex Skybox Editor</h1><h4>Spyro Tool by RubbberRabbit2</h4>
@@ -251,7 +251,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/spyroedit.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>SpyroEdit</h1><h4>Spyro Tool by LXShadow</h4>
@@ -267,7 +267,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/worldviewer.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>Spyro World Viewer</h1><h4>Spyro Tool by Kly_Men_COmpany</h4>
@@ -283,7 +283,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="http://lorempixel.com/g/400/400/">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/freeze.png">
       </div>
       <div class="col-md-9 project-post">
         <h1>Spyro Freeze Cheat Tool</h1><h4>Spyro Tool by Kly_Men_COmpany</h4>
