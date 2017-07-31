@@ -26,7 +26,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
           <h4>Spyro fangame Created by Pinballdude97 </h4>
           <p class="meta"><small>&nbsp;<em class="fa fa-calendar-o"></em>Sep 2, 2016</small></p>
           <hr/>
-          <div class="post"> Spyro fangame Created by Pinballdude97 This is probably the most high quality Spyro fangame being developed right now. The graphics and animation are outstanding and the mechanics already rival the original games, even though it's so early in development. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+          <div class="post"> Spyro fangame Created by Pinballdude97 This is probably the most high quality Spyro fangame being developed right now. The graphics and animation are outstanding and the mechanics already rival the original games, even though it's so early in development. <a href="{{ site.baseurl }}/fangames.html">CLICK HERE TO GO TO PAGE</a>
 </div>
         </div>
       </div>
