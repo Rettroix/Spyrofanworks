@@ -14,9 +14,7 @@ disqus: rettroix
 
 
 highlighter: rouge
-markdown: redcarpet
-redcarpet:
-  extensions: ["tables"]
+
 
 defaults:
   - scope:
