@@ -181,10 +181,10 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   <div class="project-box">
     <div class="row">
       <div class="col-md-3 project-image">
-        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/monacledpotato.png">
+        <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/springsavanna.png">
       </div>
       <div class="col-md-9 project-post">
-        <h1> MonacledPotato's Spyro Project</h1><h4>Spyro fangame Created by MonacledPotato</h4>
+        <h1> Spyro: Spring Savanna</h1><h4>Spyro fangame Created by MonacledPotato</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
         Wow this one is crazy. This project is trying to look just like a ps1 game and damn it works. It looks and plays so similar that many would not be able to tell the difference. In addition the game includes a few effects not possible on a ps1 which gives it a nice touch. I really look forward to see how this game turns out. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
