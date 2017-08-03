@@ -26,7 +26,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
           <h4>Spyro fangame Created by Pinballdude97 </h4>
           <p class="meta"><small>&nbsp;<em class="fa fa-calendar-o"></em>Sep 2, 2016</small></p>
           <hr/>
-          <div class="post"> Spyro fangame Created by Pinballdude97 This is probably the most high quality Spyro fangame being developed right now. The graphics and animation are outstanding and the mechanics already rival the original games, even though it's so early in development. <a href="{{ site.baseurl }}/fangames.html">CLICK HERE TO GO TO PAGE</a>
+          <div class="post"> Spyro fangame Created by Pinballdude97 This is probably the most high quality Spyro fangame being developed right now. The graphics and animation are outstanding and the mechanics already rival the original games, even though it's so early in development. <a href="{{ site.baseurl }}/fangames/pinballdude.html">CLICK HERE TO GO TO PAGE</a>
 </div>
         </div>
       </div>
@@ -43,7 +43,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
           <h4> Spyro fangame Created by Silver Studios</h4>
           <p class="meta"><small>&nbsp;<em class="fa fa-calendar-o"></em>Sep 2, 2016</small></p>
           <hr/>
-          <div class="post"> Another candidate for being the best Spyro fangame coming soon, this spectacular project looks and plays almost exactly like the original trilogy. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a></div>
+          <div class="post"> Another candidate for being the best Spyro fangame coming soon, this spectacular project looks and plays almost exactly like the original trilogy. <a href="http://www.spyrofanworks.com/fangames/riptosreturn.html">CLICK HERE TO GO TO PAGE</a></div>
         </div>
       </div>
     </div>
@@ -59,7 +59,7 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
           <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
           <div class="post">
           Spyro fangame Created by Ivan_Proskater
-This 3D Spyro project has a lot of potential. In it's current state there are a few problems such as the controls, and it's hard to navigate environments, however it's early days and the creator seems committed to fixing these problems! <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+This 3D Spyro project has a lot of potential. In it's current state there are a few problems such as the controls, and it's hard to navigate environments, however it's early days and the creator seems committed to fixing these problems! <a href="http://www.spyrofanworks.com/goldtime.html">CLICK HERE TO GO TO PAGE</a>
           </div>
         </div>
       </div>
@@ -75,7 +75,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Spyro: The Dragon Eclipse</h1><h4>Spyro fangame Created by Rettroix</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        This fangame was created by me back when nobody else had attempted to make a 3D Spyro game. I was making it with very little experience with unity so as a result the development did not go very smoothly. Currently progress is on hiatus and plan to go back to developing the game from scratch in the future. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        This fangame was created by me back when nobody else had attempted to make a 3D Spyro game. I was making it with very little experience with unity so as a result the development did not go very smoothly. Currently progress is on hiatus and plan to go back to developing the game from scratch in the future. <a href="http://www.spyrofanworks.com/fangames/eclipse.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -91,7 +91,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Ratchet5's Spyro Project</h1><h4>Spyro fangame Created by Ratchet5</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        This was a promising 2D spyro game created by youtube let's player Ratchet5, which featured many worlds. However it was never finished and the game isn't being worked on to my knowledge but perhaps some day we can see it complete. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        This was a promising 2D spyro game created by youtube let's player Ratchet5, which featured many worlds. However it was never finished and the game isn't being worked on to my knowledge but perhaps some day we can see it complete. <a href="http://www.spyrofanworks.com/fangames/ratchet5.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -107,7 +107,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Two Early Spyro 2D Test Games</h1><h4>Spyro fangame Created by RubbberRabbit2</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        I'm including two Spyro fangames in one here since they came together in a video and there's no point creating separate pages for them since they are just one level tests. These are some of the earliest examples of Spyro fangames created in 2009. I can't find an earlier example. Despite being old, these are really solid examples of fan games and could definitely be used as a basis for a really good game. Ratchet5's game may be based on the engine of the 2nd game. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        I'm including two Spyro fangames in one here since they came together in a video and there's no point creating separate pages for them since they are just one level tests. These are some of the earliest examples of Spyro fangames created in 2009. I can't find an earlier example. Despite being old, these are really solid examples of fan games and could definitely be used as a basis for a really good game. Ratchet5's game may be based on the engine of the 2nd game. <a href="http://www.spyrofanworks.com/fangames/rubberrabbit.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -123,7 +123,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Spyro Fireworks Factory Flight</h1><h4>Spyro fangame Created by RubbberRabbit2</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        A quality Spyro flash game that you can play in your browser. Flame ninja Rhynocs to get gems, try not to get hurt. Restore health with sheep. Fight the purple dragon from the double dragon area in Fireworks Factory. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        A quality Spyro flash game that you can play in your browser. Flame ninja Rhynocs to get gems, try not to get hurt. Restore health with sheep. Fight the purple dragon from the double dragon area in Fireworks Factory. <a href="http://www.spyrofanworks.com/fangames/fireworks.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -139,7 +139,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Waffled's 2D Spyro Project</h1><h4>Spyro fangame Created by Waffled</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        This is currently the best 2D Spyro game that has amazing design and really feels spyro-ey despite being 2D. So far, there is  5 levels, consisting of one hub, three levels and a boss level.  There are a total of 500 Gems to collect as well as 10 Orbs. At least 5 of these orbs are needed to access the boss fight via the golden whirlwind at then end of the hub world. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        This is currently the best 2D Spyro game that has amazing design and really feels spyro-ey despite being 2D. So far, there is  5 levels, consisting of one hub, three levels and a boss level.  There are a total of 500 Gems to collect as well as 10 Orbs. At least 5 of these orbs are needed to access the boss fight via the golden whirlwind at then end of the hub world. <a href="http://www.spyrofanworks.com/fangames/waffled.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -155,7 +155,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Spyro - The World of Secrets</h1><h4>Spyro fangame Created by Sky Fentras</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        Very cool 3D spyro game which shows a lot of promise. There isn't much to this one right now but it has a nice little intro cutscene and such. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        Very cool 3D spyro game which shows a lot of promise. There isn't much to this one right now but it has a nice little intro cutscene and such. <a href="http://www.spyrofanworks.com/fangames/worldofsecrets.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -171,7 +171,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1>Spyro Reborn</h1><h4> Spyro fangame Created by Rettroix</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        My first Spyro fan game, created before I started Spyro Eclipse, it was never finished or released but may finish it off and release it in the future. The game is played in top down view similar to the GBA games. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        My first Spyro fan game, created before I started Spyro Eclipse, it was never finished or released but may finish it off and release it in the future. The game is played in top down view similar to the GBA games. <a href="http://www.spyrofanworks.com/fangames/reborn.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -187,7 +187,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1> Spyro: Spring Savanna</h1><h4>Spyro fangame Created by MonacledPotato</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        Wow this one is crazy. This project is trying to look just like a ps1 game and damn it works. It looks and plays so similar that many would not be able to tell the difference. In addition the game includes a few effects not possible on a ps1 which gives it a nice touch. I really look forward to see how this game turns out. <a href="http://www.spyrofanworks.com/fangames.html">CLICK HERE TO GO TO PAGE</a>
+        Wow this one is crazy. This project is trying to look just like a ps1 game and damn it works. It looks and plays so similar that many would not be able to tell the difference. In addition the game includes a few effects not possible on a ps1 which gives it a nice touch. I really look forward to see how this game turns out. <a href="http://www.spyrofanworks.com/fangames/springsavannah.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
