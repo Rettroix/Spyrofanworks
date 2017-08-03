@@ -22,11 +22,11 @@ Welcome to the grand opening of Spyro Fanworks!! This aims to be a site which br
           <img src="{{ site.baseurl }}/images/fangameimages/thumbnails/pinballdude.png">
         </div>
         <div class="col-md-9 project-post">
-          <h1> Pinballdude97's Spyro Project </h1>
-          <h4>Spyro fangame Created by Pinballdude97 </h4>
+          <h1> Spyro: Morta's Mayhem </h1>
+          <h4>Spyro fangame Created by Pinballdude97 and FaithSDK</h4>
           <p class="meta"><small>&nbsp;<em class="fa fa-calendar-o"></em>Sep 2, 2016</small></p>
           <hr/>
-          <div class="post"> Spyro fangame Created by Pinballdude97 This is probably the most high quality Spyro fangame being developed right now. The graphics and animation are outstanding and the mechanics already rival the original games, even though it's so early in development. <a href="{{ site.baseurl }}/fangames/pinballdude.html">CLICK HERE TO GO TO PAGE</a>
+          <div class="post"> Spyro fangame Created by Pinballdude97 One of the most high quality Spyro fangame being developed right now. The graphics and animation are outstanding and the mechanics already rival the original games, even though it's so early in development. <a href="{{ site.baseurl }}/fangames/mortasmayhem.html">CLICK HERE TO GO TO PAGE</a>
 </div>
         </div>
       </div>
