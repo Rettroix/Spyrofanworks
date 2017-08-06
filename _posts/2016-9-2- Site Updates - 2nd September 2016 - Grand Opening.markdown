@@ -194,7 +194,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
   </div>
 </div>
 
-### Hacks and Mods Added To the Database
+### Hacks, Mods and Betas Added To the Database
 
   <div class="container">
   <div class="project-box">
@@ -222,7 +222,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1>Spyro The Dragon: Beta Playthrough </h1><h4>A complete Spyro Beta Playthrough by LXShadow</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        Not really a mod or a hack but I need to put this somewhere since it's too good not to. LXShadow somehow get's his hands on a copy of the Spyro The Dragon beta and provides a whole playthrough of it. Sadly a beta hasn't been leaked to the publics hands but at least we get this. You'll see so many diffrences to the finished game, such an interesting watch. Go watch this now. <a href="http://www.spyrofanworks.com/hacks-and-mods.html">CLICK HERE TO GO TO PAGE</a>
+        LXShadow somehow get's his hands on a copy of the Spyro The Dragon beta and provides a whole playthrough of it. Sadly a beta hasn't been leaked to the publics hands but at least we get this. You'll see so many diffrences to the finished game, such an interesting watch. Go watch this now. <a href="http://www.spyrofanworks.com/hacks-and-mods.html">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
