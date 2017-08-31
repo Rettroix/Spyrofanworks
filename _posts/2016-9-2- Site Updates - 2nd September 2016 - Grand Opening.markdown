@@ -241,7 +241,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1>Vertex Skybox Editor</h1><h4>Spyro Tool by RubbberRabbit2</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        The vertex Skybox editor is a tool which allows you to create your own spyro style skybox's and even import them ingame using SpyroEdit. <a href="http://www.spyrofanworks.com/tools-and-utilities.html">CLICK HERE TO GO TO PAGE</a>
+        The vertex Skybox editor is a tool which allows you to create your own spyro style skybox's and even import them ingame using SpyroEdit. <a href="{{ site.baseurl }}/tools/skyboxeditor">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
@@ -257,7 +257,7 @@ This 3D Spyro project has a lot of potential. In it's current state there are a 
         <h1>SpyroEdit</h1><h4>Spyro Tool by LXShadow</h4>
         <p class="meta"><small>&nbsp;<i class="fa fa-calendar-o"></i>Sep 2, 2016</small></p><hr/>
         <div class="post">
-        An amazing tool that allows you to hack all three ps1 Spyro games. It includes features such as an object editor, an online mode, Texture and Skybox replacement plus more! <a href="http://www.spyrofanworks.com/tools-and-utilities.html">CLICK HERE TO GO TO PAGE</a>
+        An amazing tool that allows you to hack all three ps1 Spyro games. It includes features such as an object editor, an online mode, Texture and Skybox replacement plus more! <a href="{{ site.baseurl }}/tools/spyroedit">CLICK HERE TO GO TO PAGE</a>
         </div>
       </div>
     </div>
